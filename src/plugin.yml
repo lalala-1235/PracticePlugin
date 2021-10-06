@@ -1,0 +1,9 @@
+name: RPGServerPlugin
+version: 1.0.0
+main: main.Main
+description: RPGPlugin
+api-version: 1.16
+commands:
+  cosmetic:
+    description: Cosmetics!
+    usage: /cosmetic
